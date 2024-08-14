@@ -124,7 +124,6 @@ start:
     int 21h    
 ends 
 
-;main menu
 main_menu proc
     call border
     
