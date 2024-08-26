@@ -183,6 +183,7 @@ main_menu proc
     inc di
     loop lopem7
     
+    
     mov di,7bch
     lea si,main8
     mov cx,11
